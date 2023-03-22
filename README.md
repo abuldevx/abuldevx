@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abul</h1>
 <h3 align="center">Innovative frontend developer</h3>
 
-<a  href="https://app.daily.dev/Abul_Hossain"><img src="https://api.daily.dev/devcards/634a3919e45e4b2b86a9592a12a3ceed.png?r=uhi" width="300" alt="MD Abul Hossain's Dev Card"/></a>
+<a  href="https://app.daily.dev/Abul_Hossain"><img src="https://api.daily.dev/devcards/634a3919e45e4b2b86a9592a12a3ceed.png?r=uhi" width="400" alt="MD Abul Hossain's Dev Card"/></a>
 
 
 - 🔭 Currently working at [Dorik](https://dorik.com/)
