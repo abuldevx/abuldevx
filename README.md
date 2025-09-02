@@ -89,9 +89,9 @@
 
 ## Activity
 <p>
-  <img width='50%' src="https://github-readme-stats.vercel.app/api/top-langs?username=abul2285&show_icons=true&locale=en&layout=compact" alt="abul2285" />
-  <img width='50%' align='right' src="https://github-readme-stats.vercel.app/api?username=abul2285&show_icons=true&locale=en" alt="abul2285" />
-  <img width='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=abul2285&" alt="abul2285" />
+  <img width='50%' src="https://github-readme-stats.vercel.app/api/top-langs?username=abuldevx&show_icons=true&locale=en&layout=compact" alt="abuldevx" />
+  <img width='50%' align='right' src="https://github-readme-stats.vercel.app/api?username=abuldevx&show_icons=true&locale=en" alt="abuldecx" />
+  <img width='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=abuldevx" alt="abuldevx" />
 <p>
 
  
